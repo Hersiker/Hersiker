@@ -21,14 +21,14 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Multiplatform App Developer
+- 🌱 I currently work as a Full Stack Developer in a fully remote role.
 - 🔭 I’m currently working on different Top Secret projects :grin:
-- 🌱 I’m currently studying Multiplatfrom App Development.
 - 👯 I’m open to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Acquiring proficiency with more languages & tools
+- 🥅 2026 Goals: Acquiring proficiency with more languages & tools
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and find smart and innovative solutions
-- ⚡ Fun fact: If I am not coding, I am playing TTRPGS :raised_hands:
+- ⚡ Fun fact: If I am not coding, I am playing D&D! :raised_hands:
 
 <br>
 
