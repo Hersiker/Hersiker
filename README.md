@@ -32,34 +32,6 @@
 
 <br>
 
-### Languages and Tools: 
-
-<img align="left" alt="HTML5" width="35px" src="https://camo.githubusercontent.com/05b8e95429a1a2ccf382c5a7e5998747bed2efc36021e6c12472dac6cbe7138e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://camo.githubusercontent.com/c1ee13c206959ffc6562949f4e9289c58dc5a9e747a1c03af46013cebb5c50ea/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-
-<br>
-<br>
-<br>
-
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-<br>
-
-
-
 <!--
 <details>
   <summary>:zap: Github Stats</summary>
@@ -75,8 +47,8 @@
 
 ### :zap: Github Stats
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayBGB&layout=pie&theme=radical&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
-  [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayBGB&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hersiker&layout=pie&theme=radical&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+  [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hersiker&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
